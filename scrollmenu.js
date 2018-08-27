@@ -20,6 +20,7 @@
 			}else{
 				gototop.css('opacity', '0');
 			}
+			console.log(bodyheight);
 		});
 		this.click(function(){
 			jQuery('html,body').animate({ scrollTop: 0 }, 1000);
