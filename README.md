@@ -4,7 +4,7 @@ jQuery("your nenu href class").scrollmenu();
 
 # gototop
 
-<div id="gototop"></div>
+div id="gototop"
 
 add gototop.css
 
